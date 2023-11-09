@@ -8,4 +8,4 @@ Comments: Like the images as the link and the carosuel of pokemons/yu-gi-oh as t
 
 figma: https://www.figma.com/file/ImX3P31lvmkJNjHbqVOBsm/Challenge-%231---Favorite-Top-10-Website?type=design&node-id=0%3A1&mode=design&t=NKLufLwgBsCUR3ih-1
 
-github:
+github: https://github.com/Dinomyt/Challenge-1---top-10
